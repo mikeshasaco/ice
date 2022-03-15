@@ -634,9 +634,10 @@
                     <ul style="line-height: 120px;">
                         <p style="font-size:20px; color:white;" >1 quadtrillion tokens</p> 
                         <p style="font-size:20px; color:white;" >2% liquidity Tax</p> 
-                        <p style="font-size:20px; color:white;" >15% sell Tax</p> 
+                        <p style="font-size:20px; color:white;" >12% sell Tax</p> 
                         <p style="font-size:20px; color:white;" >No Buy Tax</p> 
                         <p style="font-size:20px; color:white;" >sell fee will be reduce to 2% after the first 24 hours</p> 
+                        <p style="font-size:20px; color:white;" >liquidity will be locked for 2 months (then relocked)</p> 
 
 
                     </ul>
@@ -677,16 +678,19 @@
                 </div> -->
                 
                 <div class="col-lg-6">
-                    <h3 style="color:#2b8eff"> Charity Driven</h3>
+                    <h3 style="color:#2b8eff"> Ice Swap</h3>
                  
                     <ul>
-                         <p style="line-height: 40px; color:white;" >We are focus Token we are focused on helping those that are less fortunate. 9.2% of the world lives in extreme poverty living under $1.90 a day. Our mission is to help those that are struggle by donating to organizations such as (St Judes, Red Cross, etc)</p> 
+                         <p style="line-height: 40px; color:white;" >Ice Shib Swap will be launching in the coming days holders will be able to buy $IceShib using the swap.</p> 
                         
-
-
-
-
                     </ul>
+
+                    <h3 style="color:#2b8eff"> Ice Shib Trading Card Game</h3>
+                 
+                 <ul>
+                      <p style="line-height: 40px; color:white;" >We are building a trading card game that will feature 5 different types of shib inu each with a different archetype. More Will be Announced Soon!</p> 
+                     
+                 </ul>
 
                     <p></p>
                 </div>
@@ -758,6 +762,8 @@
                                 <li style="color:white;">  Team Growth </li>
                                 <li style="color:white;"> Contest</li>
                                <li style="color:white;">Burns</li>
+                               <li style="color:white;">Ice Swap Launch</li>
+
 
                  </ul>
                   </div>
@@ -792,6 +798,7 @@
                     <li style="color:white;"> CEX Listing </li>
                                 <li style="color:white;">partnerships</li>
                                 <li style="color:white;">  Telegram Growth</li>
+                                <li style="color:white;">  Trading card game launch</li>
                                 <li style="color:white;"> More TBA</li>
                     </ul>
                     </div>
@@ -920,10 +927,10 @@ Click the shiny mint button, approve the transaction on Meta RealmMask and watch
 
 
                     <div class="question-title">
-                        <h3 style="color:white;"> Where can is the Discord link?</h3>
+                        <h3 style="color:white;"> Where can is the Telegram link?</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p style="color:black;"> <a href="https://discord.gg/R3qtPKeCmJ">Discord</a> </p>
+                                <p style="color:black;"> <a href="https://t.me/iceshib">Telegram</a> </p>
                             </div>
 
                         </div>
@@ -934,7 +941,7 @@ Click the shiny mint button, approve the transaction on Meta RealmMask and watch
                         <h3 style="color:white;"> where can i find the twitter link?</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p style="color:black;"> <a href="https://twitter.com/RealmSolana" target="_blank">Twitter</a> </p>
+                                <p style="color:black;"> <a href="https://twitter.com/iceshibinu" target="_blank">Twitter</a> </p>
                             </div>
 
                         </div>
