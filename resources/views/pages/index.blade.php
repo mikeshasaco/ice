@@ -681,7 +681,7 @@
                     <h3 style="color:#2b8eff"> Ice Swap</h3>
                  
                     <ul>
-                         <p style="line-height: 40px; color:white;" >Ice Shib Swap will be launching in the coming days holders will be able to buy $IceShib using the swap.</p> 
+                         <p style="line-height: 40px; color:white;" >IceShib Swap will be launching in the coming days and holders will be able to buy $IceShib using the swap.</p> 
                         
                     </ul>
 
@@ -927,7 +927,7 @@ Click the shiny mint button, approve the transaction on Meta RealmMask and watch
 
 
                     <div class="question-title">
-                        <h3 style="color:white;"> Where can is the Telegram link?</h3>
+                        <h3 style="color:white;"> Where is the Telegram link?</h3>
                         <div class="content-main">
                             <div class="content-inner">
                                 <p style="color:black;"> <a href="https://t.me/iceshib">Telegram</a> </p>
@@ -938,7 +938,7 @@ Click the shiny mint button, approve the transaction on Meta RealmMask and watch
                     </div>
 
                     <div class="question-title">
-                        <h3 style="color:white;"> where can i find the twitter link?</h3>
+                        <h3 style="color:white;"> Where can i find the twitter link?</h3>
                         <div class="content-main">
                             <div class="content-inner">
                                 <p style="color:black;"> <a href="https://twitter.com/iceshibinu" target="_blank">Twitter</a> </p>
