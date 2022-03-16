@@ -636,8 +636,7 @@
                         <p style="font-size:20px; color:white;" >2% liquidity Tax</p> 
                         <p style="font-size:20px; color:white;" >12% sell Tax</p> 
                         <p style="font-size:20px; color:white;" >No Buy Tax</p> 
-                        <p style="font-size:20px; color:white;" >sell fee will be reduced to 2% after the first 24 hours</p> 
-                        <p style="font-size:20px; color:white;" >liquidity will be locked for 2 months (then relocked)</p> 
+                        <p style="font-size:20px; color:white;" >liquidity will be locked </p> 
 
 
                     </ul>
