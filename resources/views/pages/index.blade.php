@@ -627,7 +627,7 @@
                 <div class="col-lg-6">
                     <h3 style="color:#2b8eff;">Community Token </h3>
                     <ul style="line-height: 120px;">
-                        <p style="font-size:20px; color:white;" >A Professional Team developing working hard to make Ice Shib the #1 meme token in the crypto space.</p> 
+                        <p style="font-size:20px; color:white;" >A Professional Team  working hard to make Ice Shib the #1 meme token in the crypto space.</p> 
                     </ul>
 
                     <h3 style="color:#2b8eff;">Tokenonmics </h3>
@@ -636,7 +636,7 @@
                         <p style="font-size:20px; color:white;" >2% liquidity Tax</p> 
                         <p style="font-size:20px; color:white;" >12% sell Tax</p> 
                         <p style="font-size:20px; color:white;" >No Buy Tax</p> 
-                        <p style="font-size:20px; color:white;" >sell fee will be reduce to 2% after the first 24 hours</p> 
+                        <p style="font-size:20px; color:white;" >sell fee will be reduced to 2% after the first 24 hours</p> 
                         <p style="font-size:20px; color:white;" >liquidity will be locked for 2 months (then relocked)</p> 
 
 
